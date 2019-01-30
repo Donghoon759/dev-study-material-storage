@@ -11,4 +11,4 @@
 
 ## 쿠버네티스
 
-[로드 밸런서(Load Balancer)란?] (https://nesoy.github.io/articles/2018-06/Load-Balancer)
+[로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
