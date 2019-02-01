@@ -1,5 +1,8 @@
 # dev-study-material-storage
 
+## 개발
+[2019 웹 개발자 로드맵(번역)](https://github.com/devJang/developer-roadmap)
+
 ## 프론트엔드
 
 [네이버는 이렇게 한다! 프론트엔드 개발과정](https://www.slideshare.net/UyeongJu/talkit)
@@ -14,3 +17,11 @@
 ## 쿠버네티스
 
 [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
+
+## Github
+
+[Github issue를 활용한 readme파일에 이미지 업로드](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
+
+## 유용한 사이트
+
+[내가 만드는 Favicon](https://favicon.io/)
