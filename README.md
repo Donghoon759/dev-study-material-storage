@@ -14,6 +14,11 @@
 
 [Http 완벽가이드(3장 http 메시지)](https://www.slideshare.net/choong83/http-3-http)
 
+###Node.js
+[[Nodejs] put, delete, method-override](http://blog.naver.com/PostView.nhn?blogId=jdub7138&logNo=221049375308&categoryNo=136&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+
+[[Nodejs] req, res, <% %>, partials](http://blog.naver.com/PostView.nhn?blogId=jdub7138&logNo=221043901232&categoryNo=136&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1) 
+
 ## 쿠버네티스
 
 [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
