@@ -28,6 +28,18 @@
 
 [Github issue를 활용한 readme파일에 이미지 업로드](https://ahribori.com/article/5a03bcfd6c9eef13d882e29a)
 
+## 소프트웨어공학
+
+[소프트웨어, 프로그래밍 언어, 프로그래머](https://steemit.com/kr/@beerntv/7ndxrb)
+
 ## 유용한 사이트
 
 [내가 만드는 Favicon](https://favicon.io/)
+
+## 취업
+
+[웹개발자 신입으로 취업준비하는 분들에게, 약간의 팁?](https://okky.kr/article/314704)
+
+[신입 개발자 취업 도전기](https://www.slideshare.net/ssuser565d51/ss-61448739)
+
+
