@@ -7,8 +7,11 @@
 [2019 웹 개발자 로드맵(번역)](https://github.com/devJang/developer-roadmap)
 
 ## 프론트엔드
-
 [네이버는 이렇게 한다! 프론트엔드 개발과정](https://www.slideshare.net/UyeongJu/talkit)
+
+### React
+[React에서 Stateful 대 Stateless 함수형 컴포넌트](https://code.tutsplus.com/ko/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541)
+[[번역] React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 
 
 ## 백엔드
