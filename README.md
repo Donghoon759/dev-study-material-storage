@@ -4,7 +4,7 @@
 [자바 코딩 규칙(Java Code Conventions)](https://myeonguni.tistory.com/1596)
 
 ## 자바스크립트
-[(https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/%EC%95%A0%EB%A1%9C%EC%9A%B0_%ED%8E%91%EC%85%98)
+[화살표함수](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/%EC%95%A0%EB%A1%9C%EC%9A%B0_%ED%8E%91%EC%85%98)
 
 ## C++
 [C++ 지역 변수, 스코프 그리고 주기(Local variables, scope and duration)](https://boycoding.tistory.com/166)
