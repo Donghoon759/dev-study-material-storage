@@ -3,6 +3,9 @@
 ## 자바
 [자바 코딩 규칙(Java Code Conventions)](https://myeonguni.tistory.com/1596)
 
+## C++
+[C++ 지역 변수, 스코프 그리고 주기](Local variables, scope and duration)(https://boycoding.tistory.com/166)
+
 ## 개발
 [2019 웹 개발자 로드맵(번역)](https://github.com/devJang/developer-roadmap)
 
